@@ -1,0 +1,6 @@
+{
+  "name": "Cameraman AI",
+  "description": "AI video director and camera assistant for cinematic filmmaking and professional video production.",
+  "requestFramePermissions": ["CAMERA", "RECORD_AUDIO"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
